@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NME5
 - 👀 I’m interested in python, android, js, php
-- 🌱 I’m currently learning kotlin, flutter, php, c++
+- 🌱 I’m currently learning kotlin, flutter, php
 - 💞️ I’m looking to collaborate on backend project
 - 📫 How to reach me? just add this discord username: Timm#0947
 <!---
